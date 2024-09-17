@@ -17,9 +17,9 @@ Anledningen till att jag valde List var helt enkelt för att det kändes smidiga
 
 ## Bok klassen
 Min bokklass har 5 egenskaper. Jag valde 5 för 3 kändes lite, jag försökte även lägga till genre, men det strulade så mycket att hela min kod blev "kaotisk". Så 5 egenskaper fick det bli. Hade givetivs gärna sett det lite mer avancerat själv men det får bli sen. 
-
 Egenskaper;
--Titel
+
+- Titel 
 - Författare
 - Publiceringsår
 - Sidantal
